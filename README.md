@@ -11,4 +11,4 @@ Bellow you can see the mapping how each files depend on each other.
 
 We are using a User-Defined Variable `{dlv - ecommerce items}` to access `Data Layer Variable` `ecommerce.items`
 
-![Alt](/assets/dlv-ecommerce-items.png.png "Variable configuration for dlv - ecommerce items")
+![Alt](/assets/dlv-ecommerce-items.png "Variable configuration for dlv - ecommerce items")
